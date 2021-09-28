@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Media Punk Studios
 
 Audio Signal Processing and Software Engineering
