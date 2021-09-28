@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Media Punk Studios
 
-You can use the [editor on GitHub](https://github.com/mediapunk/mediapunk.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Audio Signal Processing and Software Engineering
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Media Punk Studios specializes in algorithms and software for audio and speech processing.
+We have written custom audio processing software for well-known brands and industry leaders such as
+Harmonix, Fractal Audio, Digitech, Cobalt Speech, MOTU, and NXC Systems.
+If you have a project that requires custom audio processing, we can help you find the right solution.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Media Punk Studios started in 2011, specializing in algorithms and software for sound, speech, and language.
+We have developed algorithms for generating music such as virtual analog synthesis,
+and for optimizing computer-generated text using phonetic autocorrelation.
 
-```markdown
-Syntax highlighted code block
+#### Media Punk Studios
 
-# Header 1
-## Header 2
-### Header 3
+©2021 Media Punk Studios, LLC<br/>
+Salt Lake City, Utah
 
-- Bulleted
-- List
+#### Markdown
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mediapunk/mediapunk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Edit](https://github.com/mediapunk/mediapunk.github.io/edit/main/index.md)
+[Syntax](https://guides.github.com/features/mastering-markdown/)
+[Settings](https://github.com/mediapunk/mediapunk.github.io/settings/pages)
+[Docs](https://docs.github.com/categories/github-pages-basics/)
+[Support](https://support.github.com/contact)
