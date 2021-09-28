@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: example
 title: Blogging Like a Hacker
 ---
 Media Punk Studios started in 2011, specializing in algorithms and software for sound, speech, and language.
