@@ -112,7 +112,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Call ***-**-**25"
+    text: "+1 (385) 314-3100"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
