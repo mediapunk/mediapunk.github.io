@@ -27,16 +27,17 @@ en: &DEFAULT_EN
       such as Harmonix, Fractal Audio, Digitech,
       Cobalt Speech, MOTU, and NXC Systems.
     section: services
-    # list:
-    #   - title: "E-Commerce"
-    #     desc: "Media Punk Studios specializes in algorithms and software for audio and speech processing."
-    #     icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-    #   - title: "Responsive Design"
-    #     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-    #     icon: fas fa-laptop
-    #   - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-    #     desc: "Your description here, full **Markdown** support"
-    #     icon: fab fa-markdown
+    list:
+      - title: "Software Engineering"
+        desc: "Media Punk Studios specializes in algorithms and software for audio and speech processing."
+        #icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        image: assets/img/icons/knob_icon.png
+      - title: "Audio DSP"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
 
   # portfolio:
   #   #title: "Portfolio"
